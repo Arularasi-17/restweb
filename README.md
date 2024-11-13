@@ -208,6 +208,8 @@ footer {
 ## OUTPUT:
 ![RESTAURANT EXP6](https://github.com/user-attachments/assets/9758aa25-2d13-4cfb-8acd-4f40b0b269c8)
 
+![restaurant2](https://github.com/user-attachments/assets/cd2c83a4-2538-46ea-aec3-45e13eb8fc44)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
